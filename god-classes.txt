@@ -1,0 +1,4 @@
+RandomInfo	[RandomInfo::java.util.Random rand, RandomInfo::CardNumber():long, RandomInfo::java.lang.String[] color, RandomInfo::CarColor():java.lang.String, RandomInfo::java.lang.String[] type, RandomInfo::CarType():java.lang.String, RandomInfo::java.lang.String[] cardtype, RandomInfo::CardType():java.lang.String]
+RandomInfo	[RandomInfo::java.util.Random rand, RandomInfo::CardNumber():long, RandomInfo::java.lang.String[] color, RandomInfo::CarColor():java.lang.String, RandomInfo::java.lang.String[] type, RandomInfo::CarType():java.lang.String]
+RandomInfo	[RandomInfo::java.util.Random rand, RandomInfo::CardNumber():long, RandomInfo::java.lang.String[] color, RandomInfo::CarColor():java.lang.String]
+RandomInfo	[RandomInfo::java.lang.String[] states, RandomInfo::Numberplate():java.lang.String, RandomInfo::java.lang.String[] dist, RandomInfo::java.lang.String[] alpha]
